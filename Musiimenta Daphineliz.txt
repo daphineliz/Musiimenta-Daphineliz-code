@@ -1,0 +1,78 @@
+
+Problem statement: High dependence on the importation of goods.
+
+Sub problems
+•	Lack of innovation.
+•	Lack of proper skilling.
+•	Production of low-quality goods.
+Sub solutions
+•	A free online study platform.
+•	Interactive tutorials where students are able to consult the tutors and understand concepts.
+•	Video materials for better learning.
+
+
+
+
+#One will be required to enter their names and personal details in order to create an account and access the platform.
+
+function userDetails{
+
+   #Details required to entered will include; age, gender, residence
+   Variable names: userName, userAge, userGender, userResidence
+
+#Ask user to enter their name, age , gender and residence
+ 	string userName = "Peter Kasangaki"
+	int userAge = "20"
+	string userGender = "Male"
+	string userResidence = "Fortportal"
+}
+
+function isUserOFAge{
+
+Conditions:
+If-else and while loop condition will be used.
+
+# If user is below the age of 18, they will be taken to study material for the minors.
+else, they will be taken to the adult study material.
+	if (userAge < 18)- take to minors study material
+	else- take to adult study material
+
+# While loop will be used to keep track of when one turns 18, they would upgrade to the adult study material.
+}
+
+# A function that shows the user the topics taught.
+
+function topicOfInterest
+	array topicOfInterest = {"knitting", "carpentry"}
+
+# User will  be required to select the specific skill their require to study
+
+	If-else condition will be used
+
+#If- else statement will be used so a user can select the specific topic they want to study about.
+
+#If the selected topic is what the user is interested in then they will proceed, if not else comes in for them to select a different topic of their interest.
+
+function userLevels{
+
+#Show users the different levels.
+array userLevels = {"beginner level","moderate level", "advanced level"}
+
+
+Enter level of difficulty
+Variable names: beginnerLevel, moderateLevel, advancedLevel
+
+# If-else statement to select the level of difficulty.
+
+# If user has selected beginnerLevel they should continue to beginners material
+
+#Elif go the moderateLevel
+
+#Else go to the advancedLevel
+
+#Show user content from the selected level.
+}
+
+
+
+
