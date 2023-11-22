@@ -6,7 +6,7 @@ function calculate(expression) {
     }
 }
 
-
+//this is the input
 console.log(calculate("2 + 3"));        
 console.log(calculate("4 - 2"));         
 console.log(calculate("3 * 5"));        
